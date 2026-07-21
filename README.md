@@ -2,15 +2,11 @@
 
 ## Project Information
 
- "**Name:** Gargi  \n",
-    "\n",
-    "**Registration Number:** 23BCE11333\n",
-    "\n",
-    "**Application Number:** IN26011023\n",
-    "\n",
-    "**Batch Number:** 2B\n",
-    "\n",
-    "**Email ID:** gargi.23bce11333@vitbhopal.ac.in"
+ **Name:** Gargi 
+ **Registration Number:** 23BCE11333  
+ **Application Number:** IN26011023 
+ **Batch Number:** 2B
+ **Email ID:** gargi.23bce11333@vitbhopal.ac.in
 
 ---
 
