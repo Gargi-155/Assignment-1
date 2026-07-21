@@ -2,11 +2,15 @@
 
 ## Project Information
 
-**Author:** Akshat Garg
-**Registration Number:** 23BCE10641
-**Application Number:** IN26011052
-**Batch Number:** 1A
-**Email ID:** [akshat.23bce10641@vitbhopal.ac.in](mailto:akshat.23bce10641@vitbhopal.ac.in)
+ "**Name:** Gargi  \n",
+    "\n",
+    "**Registration Number:** 23BCE11333\n",
+    "\n",
+    "**Application Number:** IN26011023\n",
+    "\n",
+    "**Batch Number:** 2B\n",
+    "\n",
+    "**Email ID:** gargi.23bce11333@vitbhopal.ac.in"
 
 ---
 
